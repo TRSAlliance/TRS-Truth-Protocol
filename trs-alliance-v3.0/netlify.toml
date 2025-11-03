@@ -1,3 +1,0 @@
-publish = "build"
-[build.environment]
-STEALTH_KEY = "REPLACE_ME"
